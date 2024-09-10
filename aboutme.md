@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Insights into my life, passion, and hobbies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Anna Yin. I'm originally from Michigan and a die-hard University of Michigan football fan--go blue!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love to cook and try new foods
+- I have two jindo-corgi rescue dogs from Korea named Luna and Bambi
+- Currently based in the Seattle area
 
-What else do you need?
+Feel free to reach out and connect!
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
