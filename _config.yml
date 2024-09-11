@@ -138,14 +138,14 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#6497b1"
-navbar-col: "#011f4b"
-navbar-text-col: "#000000"
-navbar-border-col: "#011f4b"
+hover-col: "#9fb1e0"
+navbar-col: "#263e7c"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#263e7c"
 footer-col: "#FFFFFF"
 footer-text-col: "#000000"
 footer-link-col: "#000000"
-footer-hover-col: "#6497b1"
+footer-hover-col: "#9fb1e0"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
