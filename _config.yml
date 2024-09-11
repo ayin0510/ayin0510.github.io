@@ -51,11 +51,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-github: ayin0510  
-ORCID: 0000-0002-1612-553
-google-scholar: https://scholar.google.com/citations?hl=en&user=H7AVIvQAAAAJ
-linkedin: annayin10
-email: "ayin510@gmail.com"
+  github: ayin0510  
+  ORCID: 0000-0002-1612-553
+  google-scholar: https://scholar.google.com/citations?hl=en&user=H7AVIvQAAAAJ
+  linkedin: annayin10
+  email: "ayin510@gmail.com"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  twitter: daattali
